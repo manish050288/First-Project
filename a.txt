@@ -1,6 +1,3 @@
 ls
 ls
 hi
-manish
-yogesh
-sanjay
